@@ -1,0 +1,15 @@
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.csproj.AssemblyReference.cache
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.AssemblyInfoInputs.cache
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.AssemblyInfo.cs
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.csproj.CoreCompileInputs.cache
+C:\Users\natan\Source\Repos\labw\labw\bin\Debug\net6.0\labw.exe
+C:\Users\natan\Source\Repos\labw\labw\bin\Debug\net6.0\labw.deps.json
+C:\Users\natan\Source\Repos\labw\labw\bin\Debug\net6.0\labw.runtimeconfig.json
+C:\Users\natan\Source\Repos\labw\labw\bin\Debug\net6.0\labw.dll
+C:\Users\natan\Source\Repos\labw\labw\bin\Debug\net6.0\ref\labw.dll
+C:\Users\natan\Source\Repos\labw\labw\bin\Debug\net6.0\labw.pdb
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.dll
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\ref\labw.dll
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.pdb
+C:\Users\natan\Source\Repos\labw\labw\obj\Debug\net6.0\labw.genruntimeconfig.cache
